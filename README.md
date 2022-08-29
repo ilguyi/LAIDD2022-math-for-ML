@@ -12,7 +12,7 @@ Lectures on AI-driven Drug Discovery(LAIDD) 강의의 일환으로 제작되었�
 선형대수학과 기초 확률에 대한 강의와 실습을 목표로 합니다.
 
 
-* Final update: 2022. 8. 10.
+* Final update: 2022. 8. 29.
 * All right reserved @ 이일구 (Il Gu Yi) 2022
 * 이 저장소는 Ubuntu, Linux Mint 및 MacOS에서 테스트 되었습니다.
   * Windows는 별도의 테스트를 하지 못하였으나 가상환경 및 패키지설치가 된다면 사용가능할 것으로 생각됩니다.
@@ -49,13 +49,14 @@ $ conda install numpy pandas matplotlib
 $ conda install -c conda-forge jupyterlab
 ```
 pytorch는 홈페이지에서 자신의 환경에 맞게 설치를 합니다.
-[설치페이지](https://pytorch.org/get-started/locally/)
+[설치페이지 바로가기](https://pytorch.org/get-started/locally/)
 
+
+## Execution
 모든 패키지 설치가 끝났으면 `jupyterlab`을 실행합니다.
 ```bash
 $ jupyter lab
 ```
-
 
 
 ## Author
