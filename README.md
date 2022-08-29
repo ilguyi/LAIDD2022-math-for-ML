@@ -26,7 +26,7 @@ Lectures on AI-driven Drug Discovery(LAIDD) 강의의 일환으로 제작되었�
 * `python` >= 3.8
 * [`pytorch`](https://pytorch.org) >= 1.13
 * `numpy`, `pandas`, `matplotlib`
-* `jupyter`, `nb_conda`
+* `jupyterlab`
 
 
 ## Installation
@@ -46,8 +46,16 @@ $ conda activate laidd22math
 $ git clone https://github.com/ilguyi/LAIDD2022-math-for-ML
 $ cd LAIDD2022-math-for-ML
 $ conda install numpy pandas matplotlib
-$ conda install jupyter nb_conda
+$ conda install -c conda-forge jupyterlab
 ```
+pytorch는 홈페이지에서 자신의 환경에 맞게 설치를 합니다.
+[설치페이지](https://pytorch.org/get-started/locally/)
+
+모든 패키지 설치가 끝났으면 `jupyterlab`을 실행합니다.
+```bash
+$ jupyter lab
+```
+
 
 
 ## Author
