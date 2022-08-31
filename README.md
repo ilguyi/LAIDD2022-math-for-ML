@@ -12,7 +12,7 @@ Lectures on AI-driven Drug Discovery(LAIDD) 강의의 일환으로 제작되었�
 선형대수학과 기초 확률에 대한 강의와 실습을 목표로 합니다.
 
 
-* Final update: 2022. 8. 29.
+* Final update: 2022. 8. 31.
 * All right reserved @ 이일구 (Il Gu Yi) 2022
 * 이 저장소는 Ubuntu, Linux Mint 및 MacOS에서 테스트 되었습니다.
   * Windows는 별도의 테스트를 하지 못하였으나 가상환경 및 패키지설치가 된다면 사용가능할 것으로 생각됩니다.
@@ -57,6 +57,12 @@ pytorch는 홈페이지에서 자신의 환경에 맞게 설치를 합니다.
 ```bash
 $ jupyter lab
 ```
+
+
+## Lecture notes
+
+* [Linear Algebra](https://www.dropbox.com/s/elvej2sqrpwmd7n/linear%20algebra.pdf?dl=0)
+* [Probability Theory](https://www.dropbox.com/s/g5yhg9eb5w4z225/probability.pdf?dl=0)
 
 
 ## Author
