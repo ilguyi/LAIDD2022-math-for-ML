@@ -61,8 +61,8 @@ $ jupyter lab
 
 ## Lecture notes
 
-* [Linear Algebra](https://www.dropbox.com/s/elvej2sqrpwmd7n/linear%20algebra.pdf?dl=0)
-* [Probability Theory](https://www.dropbox.com/s/g5yhg9eb5w4z225/probability.pdf?dl=0)
+* [Linear Algebra](https://www.dropbox.com/s/elvej2sqrpwmd7n/linear%20algebra.pdf?dl=1)
+* [Probability Theory](https://www.dropbox.com/s/g5yhg9eb5w4z225/probability.pdf?dl=1)
 
 
 ## Author
